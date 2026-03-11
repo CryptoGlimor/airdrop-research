@@ -1,2 +1,16 @@
-# airdrop-research
-Tracking crypto projects, funding tiers and airdrop opportunities
+# Airdrop Research
+
+Research notes about upcoming crypto projects.
+
+## What I Track
+
+- Project funding
+- Investor tier
+- Tokenomics
+- Testnet participation
+
+## Tools Used
+
+- CryptoRank
+- DeBank
+- Twitter
